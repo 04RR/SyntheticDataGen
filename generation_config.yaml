@@ -1,0 +1,9 @@
+context_data_dir: "qa"
+output_dir: "./"
+num_questions: 2
+
+model_name: "openchat_openchat_3.5"
+temperature: 1.31
+top_p: 0.14
+repetition_penalty: 1.17
+top_k: 49
