@@ -6,7 +6,7 @@ This GitHub repository contains a collection of Python scripts designed for gene
 - `data_gen.py`: Generates questions and answers based on provided context sections.
 - `main.py`: Extracts questions and answers from text and processes them with the Nougat tool.
 - `pdfocr.py`: Processes PDF files to extract and convert content to a markdown format.
-- `temp.py`: Generates variations of question-answer pairs based on explanations.
+- `temp.py`: Exeriments to generate variations of question-answer pairs based on explanations.
 - `generation_config.yaml`: Configuration file for the generation script.
 
 ## Requirements
@@ -31,7 +31,7 @@ This GitHub repository contains a collection of Python scripts designed for gene
 - Purpose: To process PDF files and extract text in markdown format.
 - Usage: Run `python pdfocr.py`. Make sure to have your PDF files in the specified folder path.
 
-### Temporary Script (`temp.py`)
+### Temporary Script (`temp.py`) (experiment)
 - Purpose: To generate variations of question-answer pairs.
 - Usage: Run `python temp.py` after configuring `generation_config.yaml` with appropriate settings.
 
